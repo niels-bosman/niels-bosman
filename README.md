@@ -1,4 +1,4 @@
-### Hi there, i'm Patrick 👋
+### Hi there, i'm Niels 👋
 I create stuff.
 
 🖥️ [nielsbosman.dev](https://nielsbosman.dev) <br>
