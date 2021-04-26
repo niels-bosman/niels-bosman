@@ -1,5 +1,4 @@
 ### Hi there, i'm Niels 👋
-I create stuff.
 
 🖥️ [nielsbosman.dev](https://nielsbosman.dev) <br>
 📧 [niels.bosman@mail.com](mailto:niels.bosman@mail.com)
